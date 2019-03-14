@@ -1,6 +1,6 @@
 <1> Introduction 
 
-code of SHNE in WSDM2019 paper: SHNE: Representation Learning for Semantic-Associated Heterogeneous Networks
+code of SHNE model (SE-HSG-rw) in WSDM2019 paper: SHNE: Representation Learning for Semantic-Associated Heterogeneous Networks
 
 Contact: Chuxu Zhang (czhang11@nd.edu)
 
